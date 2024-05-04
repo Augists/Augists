@@ -9,10 +9,6 @@
 <br />
 
 <div>
-  <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Augists"/>
-  </div>
-  <div align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augists&layout=compact&hide=Ada,Verilog,Html,Javascript,Css"/>
-  </div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Augists&locale=en&show_icons=true&hide=&theme=&rank_icon=default"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augists&locale=en&theme=&langs_count=10&layout=compact"/>
 </div>
