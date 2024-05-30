@@ -1,8 +1,8 @@
 <div align="center">
 
-项目存储已转移至组内 GitLab，目前 GitHub 仅为个人兴趣
+[ <a href="https://augists.top">🏠 BLog</a> | <a href="https://t.me/Augists">🕸 TG Channel</a> | <a href="https://xjtu-netverify.github.io">🏫 NetVerify Lab</a> | <a href="https://github.com/NAOSI-DLUT">🏫 NAOSI-DLUT</a> | <a href="mailto:augists@duck.com">📧 E-mail</a> | <a href="https://github.com/Augists">👻 GitHub</a> | <a href="https://github.com/Augists/PublicResources">👨🏻‍💻 Public Resources</a> | <a href="https://augists.top/gallery/">🌁 Gallery</a> ]
 
-[ <a href="https://augists.top">🏠 BLog</a> | <a href="https://t.me/Augists">🕸 TG Channel</a> | <a href="https://github.com/NAOSI-DLUT">🏫 Organization</a> | <a href="mailto:augists@duck.com">📧 E-mail</a> | <a href="https://twitter.com/ZDCZ_Augists">🐥 Twitter</a> | <a href="https://github.com/Augists">👻 GitHub</a> | <a href="https://augists.top/about">👨🏻‍💻 About</a> | <a href="https://augists.top/gallery/">🌁 Gallery</a> ]
+组内开源项目请关注 [XJTU-NetVerify](https://github.com/xjtu-netverify)，非公开项目存放私有仓库和组内 GitLab
   
 </div>
 
