@@ -1,10 +1,16 @@
 <div align="center">
 
-[ <a href="https://augists.top">🏠 BLog</a> | <a href="https://t.me/Augists">🕸 TG Channel</a> | <a href="https://xjtu-netverify.github.io">🏫 NetVerify Lab</a> | <a href="https://github.com/NAOSI-DLUT">🏫 NAOSI-DLUT</a> | <a href="mailto:augists@duck.com">📧 E-mail</a> | <a href="https://github.com/Augists">👻 GitHub</a> | <a href="https://github.com/Augists/PublicResources">👨🏻‍💻 Public Resources</a> | <a href="https://augists.top/gallery/">🌁 Gallery</a> ]
+[ <a href="https://augists.top">🏠 BLog</a> | <a href="https://t.me/Augists">🕸 TG Channel</a> | <a href="https://xjtu-netverify.github.io">🏫 NetVerify Lab</a> | <a href="http://ants.xjtu.edu.cn/">🏫 XJTU ANTS Group</a> | <a href="https://github.com/NAOSI-DLUT">🏫 NAOSI-DLUT</a> |
 
-组内开源项目请关注 [XJTU-NetVerify](https://github.com/xjtu-netverify)，非公开项目存放私有仓库和组内 GitLab
+<a href="mailto:augists@duck.com">📧 E-mail</a> | <a href="https://github.com/Augists">👻 GitHub</a> | <a href="https://github.com/Augists/PublicResources">👨🏻‍💻 Public Resources</a> | <a href="https://augists.top/gallery/">🌁 Gallery</a> ]
   
 </div>
+
+Focus on NETWORKING
+* WiFi-based Human Activity Recognition research in DLUT WiLNA Lab
+* Network Verification research in [XJTU ANTS Group](http://ants.xjtu.edu.cn/) - [NetVerify Lab](https://xjtu-netverify.github.io)
+
+Please refer to [XJTU-NetVerify](https://github.com/xjtu-netverify) for open source projects from NetVerify Lab
 
 <br />
 
