@@ -14,7 +14,7 @@ Please refer to [XJTU-NetVerify](https://github.com/xjtu-netverify) for open sou
 
 <div align="center">
 
-[🎞️ Photography | 🏎️ Formula One | 🖐 DIY | 🖥️ Desktop Setup | 🧑🏻‍💻 Open Source | 🎶 Music]
+[ 🎞️ Photography | 🏎️ Formula One | 🖐 DIY | 🖥️ Desktop Setup | 🧑🏻‍💻 Open Source | 🎶 Music | 🕹️ Valorant ]
 
 </a>
 
