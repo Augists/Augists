@@ -12,6 +12,12 @@ Focus on NETWORKING
 
 Please refer to [XJTU-NetVerify](https://github.com/xjtu-netverify) for open source projects from NetVerify Lab
 
+<div align="center">
+
+[🎞️ Photography | 🏎️ Formula One | 🖐 DIY | 🖥️ Desktop Setup | 🧑🏻‍💻 Open Source | 🎶 Music]
+
+</a>
+
 <br />
 
 <div>
