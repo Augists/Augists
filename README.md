@@ -75,11 +75,21 @@ Projects
 </details>
 
 <details>
+  <summary>VN_R_S_WRR & nginx PR - https://github.com/Augists/VN_R_S_WRR</summary>
+
+  Virtual Node Random Smooth Weighted Round Robin algorithm, aimed to solve the "herd effect" problem in cluster deployment scenarios.
+
+  Very simple modification at nginx `swrr` branch - https://github.com/Augists/nginx
+
+  Also refer to PR - https://github.com/nginx/nginx/pull/837
+</details>
+
+<details>
   <summary>Consistent Hashing Algorithms Benchmark - https://github.com/Augists/Consistent-Hashing-Algorithms-Benchmark</summary>
 
   Experiments in different consistent hashing algorithms on load balancing, lookup time cost, remapping.
 
-  Description and analysis LB algorithms: hash mod, hash-ring chash, multi-probe chash, Jump chash, Maglev chash, AnchorHash, DxHash, Rendezvous hash. Also take a look of my blog - https://augists.top/NOTES/LB/LB%20Algorithms%20Sharing.
+  Description and analysis LB algorithms: hash mod, hash-ring chash, multi-probe chash, Jump chash, Maglev chash, AnchorHash, DxHash, Rendezvous hash. Also take a look of my blog - https://augists.top/NOTES/LB/LB%20Algorithms%20Sharing
 </details>
 
 <details>
