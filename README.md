@@ -183,8 +183,3 @@ $ dot2ascii --fancy example/example2.dot
 </details>
 
 <br />
-
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Augists&locale=en&show_icons=true&hide=&theme=&rank_icon=default"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augists&locale=en&theme=&langs_count=10&layout=compact"/>
-</div>
