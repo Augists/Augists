@@ -181,5 +181,3 @@ $ dot2ascii --fancy example/example2.dot
 
   <img src="https://camo.githubusercontent.com/a587164431dedfe5b0f6b65c0b3fc4169d32edb2631af2239f992687a04c8cdd/68747470733a2f2f692e6c6f6c692e6e65742f323032312f30312f31342f7555686e4c494a4e356c624334476a2e706e67" />
 </details>
-
-<br />
